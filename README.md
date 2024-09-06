@@ -1,4 +1,4 @@
-![logo](https://github.com/adityapathak0007/Aditya-Pathak/blob/main/banner.png)
+![logo](https://github.com/atharva0074/atharva0074/blob/3febb5dda9dae0e4fdf2ab48f3a61479002f1426/banner.jpg)
 <h1 align="center">Hi 👋, I'm Atharva Pathak</h1>
 <h3 align="center">Transforming Data into Insights with Passion and Accuracy.</h3>
 
